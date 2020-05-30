@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using Newsletter.Core.Domain.Model;
-using Newsletter.Core.Domain.Service;
+﻿using System.Threading.Tasks;
+using Newsletter.Infrastructure.API.Newsletter.Core.Domain.Model;
+using Newsletter.Infrastructure.API.Newsletter.Core.Domain.Service;
 
-namespace Newsletter.Core.Application.Service
+namespace Newsletter.Infrastructure.API.Newsletter.Core.Application.Service
 {
     public class SubscriptionService
     {
@@ -22,12 +19,9 @@ namespace Newsletter.Core.Application.Service
 
         public async Task<bool> Subscribe(Subscription request)
         {
-            var subscription = new Subscription(
-                request.Name,
-                request.Email
-            );
-
-            await _subscriptionRepository.Create(subscription);
+           
+            var subscription = new Subscription(request.Name, request.Email, request.VerificationCode);
+            var isCreated = await _subscriptionRepository.Create(subscription);
 
             var text =
                 $"<a href=\"http://localhost:63400/subscribe?email={request.Email}&code={subscription.VerificationCode}\"> Klikk på her for å bekrefte</a>";

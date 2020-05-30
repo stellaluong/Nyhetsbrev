@@ -1,16 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using Newsletter.Core.Domain.Model;
-using Newsletter.Core.Domain.Service;
+﻿using System.Threading.Tasks;
+using Newsletter.Infrastructure.API.Newsletter.Core.Domain.Model;
+using Newsletter.Infrastructure.API.Newsletter.Core.Domain.Service;
 
-namespace Newsletter.Infrastructure.DataAccess
+namespace Newsletter.Infrastructure.API.Newsletter.Infrastructure.DataAccess
 {
-   public class EmailService : IEmailService
+    public class EmailService : IEmailService
     {
         public Task<bool> Send(Email email)
         {
+            
             return Task.FromResult(true);
         }
     }

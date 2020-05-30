@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using Newsletter.Core.Domain.Model;
+﻿using System.Threading.Tasks;
+using Newsletter.Infrastructure.API.Newsletter.Core.Domain.Model;
 
-namespace Newsletter.Core.Domain.Service
+namespace Newsletter.Infrastructure.API.Newsletter.Core.Domain.Service
 {
     public interface ISubscriptionRepository
     {

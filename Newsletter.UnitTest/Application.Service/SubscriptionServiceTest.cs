@@ -1,13 +1,11 @@
-using System;
-using System.Net.Mail;
 using System.Threading.Tasks;
 using Moq;
-using Newsletter.Core.Application.Service;
-using Newsletter.Core.Domain.Model;
-using Newsletter.Core.Domain.Service;
+using Newsletter.Infrastructure.API.Newsletter.Core.Application.Service;
+using Newsletter.Infrastructure.API.Newsletter.Core.Domain.Model;
+using Newsletter.Infrastructure.API.Newsletter.Core.Domain.Service;
 using NUnit.Framework;
 
-namespace Newsletter.UnitTest
+namespace Newsletter.Infrastructure.API.Newsletter.UnitTest.Application.Service
 {
     public class Tests
     {

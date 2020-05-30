@@ -1,0 +1,8 @@
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.deps.json
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.dll
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Newsletter.Core.dll
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.csprojAssemblyReference.cache
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.csproj.CopyComplete

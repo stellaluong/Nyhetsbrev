@@ -1,0 +1,8 @@
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.deps.json
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.dll
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.csprojAssemblyReference.cache
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.AssemblyInfoInputs.cache
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.AssemblyInfo.cs
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.dll
+C:\Users\Andreas\Documents\Nyhetsbrev\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.pdb

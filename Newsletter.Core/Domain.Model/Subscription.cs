@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Newsletter.Core.Domain.Model
+namespace Newsletter.Infrastructure.API.Newsletter.Core.Domain.Model
 {
     public class Subscription : BaseEntity
     {
@@ -10,7 +8,7 @@ namespace Newsletter.Core.Domain.Model
         public string Email { get; set; }
         public string VerificationCode { get; set; }
 
-        public Subscription(string name, string email, string verificationCode = null)
+        public Subscription(string name, string email, string verificationCode = null) : base()
         {
             Name = name;
             Email = email;

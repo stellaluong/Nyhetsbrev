@@ -4,24 +4,24 @@ using System.Text;
 
 namespace Newsletter.Core.Domain.Model
 {
-   public class Email
+    public class Email
     {
         public string To { get; set; }
         public string From { get; set; }
         public string Subject { get; set; }
-        public string Text { get; set; }
+        public string Content { get; set; }
 
-        public Email(string to, string @from, string subject, string text)
+        public Email(string to, string @from, string subject, string content)
         {
             To = to;
             From = @from;
             Subject = subject;
-            Text = text;
+            Content = content;
         }
 
         public Email()
         {
-            
+
         }
     }
 }

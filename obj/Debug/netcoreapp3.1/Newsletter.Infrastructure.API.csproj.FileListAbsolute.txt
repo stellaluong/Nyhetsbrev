@@ -1,0 +1,7 @@
+C:\Users\Andreas\Documents\Nyhetsbrev\bin\Debug\netcoreapp3.1\Newsletter.Core.dll
+C:\Users\Andreas\Documents\Nyhetsbrev\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.dll
+C:\Users\Andreas\Documents\Nyhetsbrev\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
+C:\Users\Andreas\Documents\Nyhetsbrev\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csprojAssemblyReference.cache
+C:\Users\Andreas\Documents\Nyhetsbrev\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.AssemblyInfoInputs.cache
+C:\Users\Andreas\Documents\Nyhetsbrev\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.AssemblyInfo.cs
+C:\Users\Andreas\Documents\Nyhetsbrev\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.RazorTargetAssemblyInfo.cache
